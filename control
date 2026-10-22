@@ -1,0 +1,9 @@
+Package: com.mbucc9000.btrename
+Name: BTRename
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Give any Bluetooth device a nickname that only this iPhone shows. Settings > Bluetooth > tap the blue arrow next to a device > Rename. The nickname shows in the Bluetooth list and on the device's page, in the audio / AirPlay pickers (app switcher, lock screen, apps) and in the in-call audio list. The device keeps its real name, and other tweaks (like Ultimate AirPods Fix) still see the real name. Empty the box or tap Use Real Name to undo.
+Author: mbucc9000
+Maintainer: mbucc9000
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 6.0)
